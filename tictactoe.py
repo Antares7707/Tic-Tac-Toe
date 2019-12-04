@@ -1,3 +1,12 @@
+"""
+This is a Tic Tac Toe game written in Python. 
+Start the game, 
+and decide between you and your friend about who should be the first player. 
+Take turns to place "X" or "O" by clicking on the grids as you wish. 
+When one player wins or if the game end in a tie,a message box will pop up. 
+Click the "OK" button on the message box to exit the game.
+"""
+
 from Tkinter import *
 import tkMessageBox
 root = Tk()
