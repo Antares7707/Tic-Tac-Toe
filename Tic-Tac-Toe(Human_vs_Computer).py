@@ -1,3 +1,12 @@
+"""
+This is a program written in Python 3.6.
+The human player must take the first turn and place "O" on the grid as desired by clicking on the grid.
+The computer will take its turn next.
+This comtinues until one wins or the game ends in a tie.
+A message box will pop up, indicating the result of the game.
+Click "OK" on the message box to exit the game.
+"""
+
 from tkinter import *
 from tkinter import messagebox
 root = Tk()
